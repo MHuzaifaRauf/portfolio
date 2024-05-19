@@ -25,7 +25,7 @@ The template is designed to be easily customizable. You can modify the following
 - **Content**: Update the text, images, and links to reflect your personal information and projects.
 - **Styling**: Adjust the colors, fonts, and layout by modifying the CSS in the `assets/css/main.css` file.
 - **Functionality**: Enhance the template's functionality by adding or modifying the JavaScript code in the `assets/js/main.js` file.
-- **Icons**: The icons are sourced from [Devicon](https://devicon.dev), you can customize in anyway you want. You the option to add both svg files and images as well.
+- **Icons**: The icons are sourced from [Devicon](https://devicon.dev), you can customize them in anyway that you want. You  have the option to add both svg files and images as well.
 
 ## Contributing
 
